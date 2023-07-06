@@ -1,6 +1,7 @@
 # CRfusionGait_pytorch
 This is the code for the "Robust Gait Recognition based on Deep CNNs with Camera and Radar Sensor Fusion".
-The code will be released soon.
+The details will be updated soon.
+The dataset can be found at https://github.com/LanDu-XD/CRfusionGait
 ## Citation
 If you use this dataset and code, please cite the following papers
 ```
